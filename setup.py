@@ -1,8 +1,8 @@
-# Always prefer setuptools over distutils
-from setuptools import setup
-
 # read the contents of your README file
 from pathlib import Path
+
+# Always prefer setuptools over distutils
+from setuptools import setup
 
 this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
@@ -10,7 +10,7 @@ long_description = (this_directory / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="measurement-workbox",
-    version="0.0.1",
+    version="0.0.2",
     description="Library for processing, analyzing, and statistical assessments of measurements",
     long_description=long_description,
     long_description_content_type="text/markdown",
