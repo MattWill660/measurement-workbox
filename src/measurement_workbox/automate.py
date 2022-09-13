@@ -1,3 +1,6 @@
+import sys
+
+
 class Automate:
     def __init__(self) -> None:
-        pass
+        self.root = 'root folder'
