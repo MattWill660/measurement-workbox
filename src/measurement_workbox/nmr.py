@@ -1,4 +1,4 @@
-import nmrglue
+#import nmrglue
 
 
 class Nmr:

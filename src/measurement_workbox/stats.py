@@ -1,5 +1,5 @@
+#import sklearn as sk
 import scipy.stats as spstats
-import sklearn as sk
 
 
 class Stats:

@@ -1,6 +1,5 @@
+#import fleinput
 import sys
-
-import fleinput
 
 
 class Automate:

@@ -1,5 +1,5 @@
+#import sigpy
 import ismrmrd as mrd
-import sigpy
 
 
 class Mri:

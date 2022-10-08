@@ -1,8 +1,8 @@
-import ants
-import cv2 as cv
-import itk
-import scipy.ndimage
-import skimage
+#import ants
+#import cv2 as cv
+#import itk
+#import scipy.ndimage
+#import skimage
 
 
 class Image:
